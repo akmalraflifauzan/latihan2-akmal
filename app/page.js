@@ -8,7 +8,7 @@ export default function Design() {
       <div className="w-full font-[bold] flex flex-col items-center">
         <h1 className="text-[40px]">New Chat Akmal</h1>
         <div className="w-[400px] h-[50px] flex flex-col items-center text-[15px] max-md:hidden rounded-full bg-[#8b8b8b]">
-          <div className="w-full flex flex-col p-3">Ask anything</div>
+          <div className="w-full flex flex-col p-3">Click Me</div>
         </div>
       </div>
       <div className="w-full flex flex-row justify-center">
